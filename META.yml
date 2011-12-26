@@ -17,7 +17,7 @@ name: Text-Ligature
 provides:
   Text::Ligature:
     file: lib/Text/Ligature.pm
-    version: 0.01
+    version: 0.02
 requires:
   parent: 0
   perl: v5.6.0
@@ -26,4 +26,4 @@ resources:
   homepage: https://github.com/patch/text-ligature-pm5
   license: http://dev.perl.org/licenses/
   repository: git://github.com/patch/text-ligature-pm5.git
-version: 0.01
+version: 0.02
